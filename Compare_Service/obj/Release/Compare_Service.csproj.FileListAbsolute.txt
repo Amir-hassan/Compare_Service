@@ -1,0 +1,16 @@
+C:\Users\AmirHassan\source\repos\Compare_Service\Compare_Service\bin\Release\Compare_Service.exe.config
+C:\Users\AmirHassan\source\repos\Compare_Service\Compare_Service\bin\Release\Compare_Service.exe
+C:\Users\AmirHassan\source\repos\Compare_Service\Compare_Service\bin\Release\Compare_Service.pdb
+C:\Users\AmirHassan\source\repos\Compare_Service\Compare_Service\bin\Release\ClosedXML.dll
+C:\Users\AmirHassan\source\repos\Compare_Service\Compare_Service\bin\Release\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\AmirHassan\source\repos\Compare_Service\Compare_Service\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\AmirHassan\source\repos\Compare_Service\Compare_Service\bin\Release\ClosedXML.xml
+C:\Users\AmirHassan\source\repos\Compare_Service\Compare_Service\bin\Release\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\AmirHassan\source\repos\Compare_Service\Compare_Service\obj\Release\Compare_Service.Form1.resources
+C:\Users\AmirHassan\source\repos\Compare_Service\Compare_Service\obj\Release\Compare_Service.Properties.Resources.resources
+C:\Users\AmirHassan\source\repos\Compare_Service\Compare_Service\obj\Release\Compare_Service.csproj.GenerateResource.cache
+C:\Users\AmirHassan\source\repos\Compare_Service\Compare_Service\obj\Release\Compare_Service.csproj.CoreCompileInputs.cache
+C:\Users\AmirHassan\source\repos\Compare_Service\Compare_Service\obj\Release\Compare_Service.csproj.CopyComplete
+C:\Users\AmirHassan\source\repos\Compare_Service\Compare_Service\obj\Release\Compare_Service.exe
+C:\Users\AmirHassan\source\repos\Compare_Service\Compare_Service\obj\Release\Compare_Service.pdb
+C:\Users\AmirHassan\source\repos\Compare_Service\Compare_Service\obj\Release\Compare_Service.csprojAssemblyReference.cache
